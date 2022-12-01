@@ -12,3 +12,13 @@
    white-space: nowrap;
    width: 1px;
 }
+
+.futer{
+   display: flex;
+}
+.futer__text{
+  color: red; 
+}
+.futer__number{
+   color: rgb(16, 13, 13);
+}
